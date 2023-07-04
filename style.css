@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculadora{
+    text-align: center;
+    padding-top: 50px;
+
+}
+button{
+    height: auto;
+    width: auto;
+    background-color: black;
+    color: white;
+}
